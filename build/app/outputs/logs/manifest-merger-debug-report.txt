@@ -1,0 +1,212 @@
+-- Merging decision tree log ---
+meta-data#com.google.android.geo.API_KEY
+INJECTED from /Users/niclas/Documents/Hackathon/GudFood/android/app/src/main/AndroidManifest.xml:14:9-15:46
+	android:value
+		INJECTED from /Users/niclas/Documents/Hackathon/GudFood/android/app/src/main/AndroidManifest.xml
+manifest
+ADDED from /Users/niclas/Documents/Hackathon/GudFood/android/app/src/main/AndroidManifest.xml:1:1-37:12
+INJECTED from /Users/niclas/Documents/Hackathon/GudFood/android/app/src/main/AndroidManifest.xml:1:1-37:12
+INJECTED from /Users/niclas/Documents/Hackathon/GudFood/android/app/src/main/AndroidManifest.xml:1:1-37:12
+INJECTED from /Users/niclas/Documents/Hackathon/GudFood/android/app/src/main/AndroidManifest.xml:1:1-37:12
+MERGED from /Users/niclas/Documents/Hackathon/GudFood/android/app/src/main/AndroidManifest.xml:1:1-37:12
+MERGED from [:google_maps_flutter] /Users/niclas/Documents/Hackathon/GudFood/build/google_maps_flutter/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/play-services-maps-17.0.0.aar/1970a48502c5c4ec25302dd4609bd039/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/b435a8cd4d09db0c89165e3b1f40591b/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.0.aar/0d2aaeda2a7fcee69ab4d9b6c8f973ed/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/play-services-basement-17.0.0.aar/ad5d8c7df89ee3b1da45b8f2577f913b/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/ede94ab72f54bf90686b32889256d360/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/21f154bdb429b30aaa9e1c4e244b833c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/4ce48a9397760028ec14bd21fb8afb9d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/997dc924d59f74e28e2a7a9233b1c8d2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/fff8bee8138abd00450a876af2f8566b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/544c1042cc337902842013c5f4f789b6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/5cc82c258577f0291ecfc364482d487c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/3425674b256a424b0ef02cb4a6b31090/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/51ec92219d58d0e8bcc8d366375ac2de/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/213b5513473ca60c937155a9acaa1144/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/1ca65fd77b95579262169006bb8b3a82/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/558aae6c110a2a00e39c55b8ae6f2ed2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/956edac643899d71f40fc78a7e705c2d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/2a3a1d5ea03160e765e6329ff028f496/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/95bc0d8c7a37dd9dde82d7e3bffbfc80/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/8484cd4c58b642697ce961b75e3aebe4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/59d788f73cc8d9f7aa931d23c28a324d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/f896e95eb2537f746e224688d7afbf4f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/56c8606a0345d92248dd902e1188f52c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/90f6f9cf895ddfa5f93fe928ff83e654/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/042a54fc4c4a182baa2422ba3b39e83d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/06fe23bacc41f8ecf91b8fd27c5faddc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/edb358ae992a7abdddee30a0a3b14ba4/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/niclas/Documents/Hackathon/GudFood/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/niclas/Documents/Hackathon/GudFood/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/niclas/Documents/Hackathon/GudFood/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /Users/niclas/Documents/Hackathon/GudFood/android/app/src/main/AndroidManifest.xml:2:5-37
+		INJECTED from /Users/niclas/Documents/Hackathon/GudFood/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/niclas/Documents/Hackathon/GudFood/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/niclas/Documents/Hackathon/GudFood/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/niclas/Documents/Hackathon/GudFood/android/app/src/main/AndroidManifest.xml:1:1-37:12
+		INJECTED from /Users/niclas/Documents/Hackathon/GudFood/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/niclas/Documents/Hackathon/GudFood/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/niclas/Documents/Hackathon/GudFood/android/app/src/main/AndroidManifest.xml:1:1-37:12
+		INJECTED from /Users/niclas/Documents/Hackathon/GudFood/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/niclas/Documents/Hackathon/GudFood/android/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/niclas/Documents/Hackathon/GudFood/android/app/src/main/AndroidManifest.xml:9:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/play-services-maps-17.0.0.aar/1970a48502c5c4ec25302dd4609bd039/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/play-services-maps-17.0.0.aar/1970a48502c5c4ec25302dd4609bd039/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/b435a8cd4d09db0c89165e3b1f40591b/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/b435a8cd4d09db0c89165e3b1f40591b/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.0.aar/0d2aaeda2a7fcee69ab4d9b6c8f973ed/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.0.aar/0d2aaeda2a7fcee69ab4d9b6c8f973ed/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/play-services-basement-17.0.0.aar/ad5d8c7df89ee3b1da45b8f2577f913b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/play-services-basement-17.0.0.aar/ad5d8c7df89ee3b1da45b8f2577f913b/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/558aae6c110a2a00e39c55b8ae6f2ed2/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/558aae6c110a2a00e39c55b8ae6f2ed2/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/2a3a1d5ea03160e765e6329ff028f496/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/2a3a1d5ea03160e765e6329ff028f496/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/558aae6c110a2a00e39c55b8ae6f2ed2/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/niclas/Documents/Hackathon/GudFood/android/app/src/main/AndroidManifest.xml:11:9-36
+	android:icon
+		ADDED from /Users/niclas/Documents/Hackathon/GudFood/android/app/src/main/AndroidManifest.xml:12:9-43
+	android:name
+		ADDED from /Users/niclas/Documents/Hackathon/GudFood/android/app/src/main/AndroidManifest.xml:10:9-57
+activity#codecrunch.flutter_app.MainActivity
+ADDED from /Users/niclas/Documents/Hackathon/GudFood/android/app/src/main/AndroidManifest.xml:17:9-35:20
+	android:launchMode
+		ADDED from /Users/niclas/Documents/Hackathon/GudFood/android/app/src/main/AndroidManifest.xml:19:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/niclas/Documents/Hackathon/GudFood/android/app/src/main/AndroidManifest.xml:22:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/niclas/Documents/Hackathon/GudFood/android/app/src/main/AndroidManifest.xml:23:13-55
+	android:configChanges
+		ADDED from /Users/niclas/Documents/Hackathon/GudFood/android/app/src/main/AndroidManifest.xml:21:13-144
+	android:theme
+		ADDED from /Users/niclas/Documents/Hackathon/GudFood/android/app/src/main/AndroidManifest.xml:20:13-47
+	android:name
+		ADDED from /Users/niclas/Documents/Hackathon/GudFood/android/app/src/main/AndroidManifest.xml:18:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /Users/niclas/Documents/Hackathon/GudFood/android/app/src/main/AndroidManifest.xml:28:13-30:40
+	android:value
+		ADDED from /Users/niclas/Documents/Hackathon/GudFood/android/app/src/main/AndroidManifest.xml:30:17-37
+	android:name
+		ADDED from /Users/niclas/Documents/Hackathon/GudFood/android/app/src/main/AndroidManifest.xml:29:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/niclas/Documents/Hackathon/GudFood/android/app/src/main/AndroidManifest.xml:31:13-34:29
+action#android.intent.action.MAIN
+ADDED from /Users/niclas/Documents/Hackathon/GudFood/android/app/src/main/AndroidManifest.xml:32:17-68
+	android:name
+		ADDED from /Users/niclas/Documents/Hackathon/GudFood/android/app/src/main/AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/niclas/Documents/Hackathon/GudFood/android/app/src/main/AndroidManifest.xml:33:17-76
+	android:name
+		ADDED from /Users/niclas/Documents/Hackathon/GudFood/android/app/src/main/AndroidManifest.xml:33:27-74
+uses-sdk
+INJECTED from /Users/niclas/Documents/Hackathon/GudFood/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/niclas/Documents/Hackathon/GudFood/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/niclas/Documents/Hackathon/GudFood/android/app/src/main/AndroidManifest.xml
+MERGED from [:google_maps_flutter] /Users/niclas/Documents/Hackathon/GudFood/build/google_maps_flutter/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:google_maps_flutter] /Users/niclas/Documents/Hackathon/GudFood/build/google_maps_flutter/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/play-services-maps-17.0.0.aar/1970a48502c5c4ec25302dd4609bd039/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/play-services-maps-17.0.0.aar/1970a48502c5c4ec25302dd4609bd039/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/b435a8cd4d09db0c89165e3b1f40591b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/b435a8cd4d09db0c89165e3b1f40591b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.0.aar/0d2aaeda2a7fcee69ab4d9b6c8f973ed/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.0.aar/0d2aaeda2a7fcee69ab4d9b6c8f973ed/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/play-services-basement-17.0.0.aar/ad5d8c7df89ee3b1da45b8f2577f913b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/play-services-basement-17.0.0.aar/ad5d8c7df89ee3b1da45b8f2577f913b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/ede94ab72f54bf90686b32889256d360/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/ede94ab72f54bf90686b32889256d360/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/21f154bdb429b30aaa9e1c4e244b833c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/21f154bdb429b30aaa9e1c4e244b833c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/4ce48a9397760028ec14bd21fb8afb9d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/4ce48a9397760028ec14bd21fb8afb9d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/997dc924d59f74e28e2a7a9233b1c8d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/997dc924d59f74e28e2a7a9233b1c8d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/fff8bee8138abd00450a876af2f8566b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/fff8bee8138abd00450a876af2f8566b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/544c1042cc337902842013c5f4f789b6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/544c1042cc337902842013c5f4f789b6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/5cc82c258577f0291ecfc364482d487c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/5cc82c258577f0291ecfc364482d487c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/3425674b256a424b0ef02cb4a6b31090/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/3425674b256a424b0ef02cb4a6b31090/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/51ec92219d58d0e8bcc8d366375ac2de/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/51ec92219d58d0e8bcc8d366375ac2de/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/213b5513473ca60c937155a9acaa1144/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/213b5513473ca60c937155a9acaa1144/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/1ca65fd77b95579262169006bb8b3a82/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/1ca65fd77b95579262169006bb8b3a82/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/558aae6c110a2a00e39c55b8ae6f2ed2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/558aae6c110a2a00e39c55b8ae6f2ed2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/956edac643899d71f40fc78a7e705c2d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/956edac643899d71f40fc78a7e705c2d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/2a3a1d5ea03160e765e6329ff028f496/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/2a3a1d5ea03160e765e6329ff028f496/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/95bc0d8c7a37dd9dde82d7e3bffbfc80/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/95bc0d8c7a37dd9dde82d7e3bffbfc80/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/8484cd4c58b642697ce961b75e3aebe4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/8484cd4c58b642697ce961b75e3aebe4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/59d788f73cc8d9f7aa931d23c28a324d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/59d788f73cc8d9f7aa931d23c28a324d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/f896e95eb2537f746e224688d7afbf4f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/f896e95eb2537f746e224688d7afbf4f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/56c8606a0345d92248dd902e1188f52c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/56c8606a0345d92248dd902e1188f52c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/90f6f9cf895ddfa5f93fe928ff83e654/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/90f6f9cf895ddfa5f93fe928ff83e654/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/042a54fc4c4a182baa2422ba3b39e83d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/042a54fc4c4a182baa2422ba3b39e83d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/06fe23bacc41f8ecf91b8fd27c5faddc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/06fe23bacc41f8ecf91b8fd27c5faddc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/edb358ae992a7abdddee30a0a3b14ba4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/edb358ae992a7abdddee30a0a3b14ba4/AndroidManifest.xml:20:5-44
+INJECTED from /Users/niclas/Documents/Hackathon/GudFood/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/niclas/Documents/Hackathon/GudFood/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/niclas/Documents/Hackathon/GudFood/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/niclas/Documents/Hackathon/GudFood/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/niclas/Documents/Hackathon/GudFood/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/niclas/Documents/Hackathon/GudFood/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/niclas/Documents/Hackathon/GudFood/android/app/src/debug/AndroidManifest.xml:6:5-66
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/play-services-maps-17.0.0.aar/1970a48502c5c4ec25302dd4609bd039/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/play-services-maps-17.0.0.aar/1970a48502c5c4ec25302dd4609bd039/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /Users/niclas/Documents/Hackathon/GudFood/android/app/src/debug/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/play-services-maps-17.0.0.aar/1970a48502c5c4ec25302dd4609bd039/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/play-services-maps-17.0.0.aar/1970a48502c5c4ec25302dd4609bd039/AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/play-services-maps-17.0.0.aar/1970a48502c5c4ec25302dd4609bd039/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/play-services-maps-17.0.0.aar/1970a48502c5c4ec25302dd4609bd039/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/play-services-maps-17.0.0.aar/1970a48502c5c4ec25302dd4609bd039/AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/play-services-maps-17.0.0.aar/1970a48502c5c4ec25302dd4609bd039/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/play-services-maps-17.0.0.aar/1970a48502c5c4ec25302dd4609bd039/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/play-services-maps-17.0.0.aar/1970a48502c5c4ec25302dd4609bd039/AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/b435a8cd4d09db0c89165e3b1f40591b/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/b435a8cd4d09db0c89165e3b1f40591b/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/b435a8cd4d09db0c89165e3b1f40591b/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/b435a8cd4d09db0c89165e3b1f40591b/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/play-services-basement-17.0.0.aar/ad5d8c7df89ee3b1da45b8f2577f913b/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/play-services-basement-17.0.0.aar/ad5d8c7df89ee3b1da45b8f2577f913b/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/niclas/.gradle/caches/transforms-1/files-1.1/play-services-basement-17.0.0.aar/ad5d8c7df89ee3b1da45b8f2577f913b/AndroidManifest.xml:24:13-58
